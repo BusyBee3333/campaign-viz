@@ -1,0 +1,134 @@
+{
+  "E1": [
+    {
+      "id": "E1-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "Just shipped: {{feature_name}} is live",
+      "methodology": "Excitement + Community",
+      "content": "{{first_name}},\n\nWe just pushed something I'm genuinely excited about.\n\n{{feature_name}} is now live in Signet.\n\n{{feature_description}}\n\nThis came directly from community feedback. {{community_member}} suggested it three weeks ago, and now it's real. That's what I love about building in the open.\n\nThe Discord is already buzzing with people testing it out. A few early reports:\n\n{{early_feedback_snippet}}\n\nTo try it yourself:\n1. Pull the latest from main\n2. {{setup_step}}\n3. Let us know what breaks (something always does)\n\nSeriously though - if you hit issues, drop them in #support. We're shipping fast and your bug reports make it better for everyone.\n\nGo play with it: {{discord_link}}\n\n- Jake\n\nP.S. - If you want help setting this up or integrating it into your workflow, reply to this email. Happy to jump on a quick call."
+    },
+    {
+      "id": "E1-2",
+      "timing": "4hr",
+      "channel": "sms",
+      "chars": 156,
+      "methodology": "FOMO + Community",
+      "content": "Discord is going off about {{feature_name}}. People are already building wild stuff with it. Come see what {{community_member}} just demoed: {{short_link}}"
+    }
+  ],
+  "E2": [
+    {
+      "id": "E2-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "We just hit {{member_count}} members",
+      "methodology": "Celebration + Social Proof",
+      "content": "{{first_name}},\n\nQuick note because this feels worth celebrating:\n\nThe Signet Discord just crossed {{member_count}} members.\n\nI remember when it was 12 people mostly talking to themselves. Now there's real conversations happening 24/7 - people helping each other, sharing what they're building, pushing the boundaries of what's possible with AI agents.\n\nSome highlights from the last month:\n\n- {{member_1}} built {{project_1}} and open-sourced it\n- {{member_2}} figured out {{discovery}} and shared the whole process\n- {{member_3}} went from 'what's an MCP' to running a full agent swarm\n\nThis isn't just a Discord. It's becoming the place where serious builders figure out AI together.\n\nThank you for being part of it. Whether you're lurking, asking questions, or dropping knowledge bombs - you're making this thing work.\n\nHere's to the next {{member_count}}: {{discord_link}}\n\n- Jake\n\nP.S. - If you've built something cool and want to share it, post in #showcase. We love seeing what people create."
+    },
+    {
+      "id": "E2-2",
+      "timing": "6hr",
+      "channel": "sms",
+      "chars": 149,
+      "methodology": "Community Pride",
+      "content": "{{member_count}} builders now in the Signet community. You're one of them. Feels like something real is happening here. Come say hi: {{short_link}}"
+    }
+  ],
+  "E3": [
+    {
+      "id": "E3-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "You just crossed {{milestone_number}} memories",
+      "methodology": "Personal Recognition",
+      "content": "{{first_name}},\n\nHad to send this.\n\nYou just crossed {{milestone_number}} memories in Signet.\n\nThat's not a vanity metric. That's {{milestone_number}} times your AI actually remembered something useful. {{milestone_number}} pieces of context it didn't have to re-learn. {{milestone_number}} moments where it worked like a real collaborator instead of a goldfish.\n\nYou're building something that compounds. Every memory makes the next interaction smarter. Most people never get here because they give up before the flywheel starts spinning.\n\nYou didn't.\n\nA few things you might notice at this scale:\n- Conversations that pick up exactly where you left off\n- Connections between ideas you forgot you had\n- An AI that actually knows how YOU work\n\nIf you want to share what you're experiencing, the Discord would love to hear it. Especially the #wins channel - that's where we celebrate this stuff.\n\nSeriously impressed.\n\n- Jake\n\nP.S. - At this scale, you might want to fine-tune some settings. Happy to help if you want to optimize your setup."
+    },
+    {
+      "id": "E3-2",
+      "timing": "2hr",
+      "channel": "sms",
+      "chars": 142,
+      "methodology": "Recognition + Encouragement",
+      "content": "{{milestone_number}} memories. You've built something real. Most people never get here. Would love to hear what's clicking for you. Reply anytime."
+    }
+  ],
+  "E4": [
+    {
+      "id": "E4-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "One year of building together",
+      "methodology": "Reflection + Gratitude",
+      "content": "{{first_name}},\n\nOne year ago today, you signed up for Signet.\n\nI don't know exactly what you were hoping for. Maybe you were curious. Maybe you were frustrated with AI that couldn't remember anything. Maybe someone recommended it.\n\nBut you showed up. And you stayed.\n\nA lot has happened since {{signup_date}}:\n\n- We shipped {{features_shipped}} major features\n- The community grew from {{then_members}} to {{now_members}} members\n- You've created {{their_memory_count}} memories\n\nMore importantly - you've been part of something that's genuinely changing how people work with AI. Not hype. Not vaporware. Real tools that real people use every day.\n\nThank you for being here.\n\nTo celebrate, I want to offer you something:\n\nIf you've been thinking about leveling up - getting help with your setup, optimizing your agents, going deeper - reply to this email. I'll give you {{discount_percent}}% off any DWY or DFY package.\n\nNo pressure. This is just a thank you for sticking around.\n\nHere's to year two.\n\n- Jake\n\nP.S. - Genuinely curious: what's been the biggest win for you this year? Hit reply and tell me."
+    },
+    {
+      "id": "E4-2",
+      "timing": "24hr",
+      "channel": "sms",
+      "chars": 155,
+      "methodology": "Personal Touch",
+      "content": "Happy 1 year anniversary with Signet, {{first_name}}. Still blown away you've been here since the early days. Thanks for building with us. - Jake"
+    }
+  ],
+  "E5": [
+    {
+      "id": "E5-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "Haven't seen you in a while",
+      "methodology": "Gentle Check-in",
+      "content": "{{first_name}},\n\nNoticed you haven't been around lately.\n\nNo guilt trip - life happens. But I wanted to make sure you know what's been going on in case you want to jump back in.\n\nSince you've been away:\n\n{{recent_updates_summary}}\n\nThe community has also been busy:\n- {{community_highlight_1}}\n- {{community_highlight_2}}\n\nIf you hit a wall with something and that's why you stepped back, I get it. Happens to everyone. Happy to help you get unstuck - just reply to this email.\n\nIf you're just busy, no worries. Signet will be here when you're ready.\n\nHope you're doing well.\n\n- Jake"
+    },
+    {
+      "id": "E5-2",
+      "timing": "7d",
+      "channel": "sms",
+      "chars": 148,
+      "methodology": "Value Reminder",
+      "content": "Quick update since you've been away: {{key_feature}}. People are building some wild stuff with it. Discord link if you want to peek: {{short_link}}"
+    },
+    {
+      "id": "E5-3",
+      "timing": "14d",
+      "channel": "email",
+      "subject": "Still here if you need anything",
+      "methodology": "Open Door",
+      "content": "{{first_name}},\n\nLast note for a while, I promise.\n\nJust wanted you to know the door is open whenever you're ready.\n\nIf something about Signet wasn't working for you, I'd genuinely love to hear about it. We're always trying to make it better, and honest feedback - especially about why people leave - is the most valuable kind.\n\nIf you just got busy or moved on to other things, totally understand. No hard feelings.\n\nEither way, you're always welcome in the community. The Discord is active, the project is growing, and there's interesting stuff happening.\n\nTake care of yourself.\n\n- Jake\n\nP.S. - If you ever want to pick back up where you left off, your data is still there. Nothing lost."
+    }
+  ],
+  "E6": [
+    {
+      "id": "E6-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "Only {{spots_remaining}} DFY spots left at $1,499",
+      "methodology": "Real Scarcity Alert",
+      "content": "{{first_name}},\n\nQuick heads up on something time-sensitive.\n\nWe're down to {{spots_remaining}} DFY spots at the early adopter price of $1,499.\n\nOnce these are gone, it goes to $2,999. Not a fake countdown. Not a marketing trick. Just how we're pricing the first cohort.\n\nQuick reminder what DFY includes:\n- Full Signet setup on dedicated Mac mini\n- Custom agent configuration for your workflow\n- Training on everything\n- Ongoing Discord support\n\nIf you've been thinking about it, now's the decision point.\n\nBook a call: {{calendar_link}}\n\nOr just reply to this email with questions.\n\n- Jake\n\nP.S. - Same thing happening with DWY spots - only {{dwy_spots_remaining}} left at $499 before it goes to $997."
+    },
+    {
+      "id": "E6-2",
+      "timing": "24hr",
+      "channel": "sms",
+      "chars": 159,
+      "methodology": "Urgency Update",
+      "content": "Update: {{spots_remaining}} DFY spots at $1,499 now. One went yesterday. After these 15, it's $2,999. Reply if you want to grab one before they're gone."
+    },
+    {
+      "id": "E6-3",
+      "timing": "48hr",
+      "channel": "email",
+      "subject": "Down to {{spots_remaining}} - not sending another email after this",
+      "methodology": "Final Call",
+      "content": "{{first_name}},\n\nTwo more DFY spots went since yesterday.\n\nWe're at {{spots_remaining}} now.\n\nI'm not going to keep emailing you about this. You either want it or you don't, and I respect that.\n\nBut I didn't want you to find out after they're gone and wonder why I didn't say anything.\n\nThe math is simple:\n- $1,499 now (first 15 early adopters)\n- $2,999 after (standard pricing)\n- $1,500 difference\n\nIf you want one, grab it: {{calendar_link}}\n\nIf not, no worries. Signet is still free and open source. The community is still here. Nothing changes except this specific offer.\n\n- Jake"
+    },
+    {
+      "id": "E6-4",
+      "timing": "72hr",
+      "channel": "sms",
+      "chars": 147,
+      "methodology": "Last Chance",
+      "content": "Last {{spots_remaining}} DFY spots at early pricing. After this, $2,999. If you're in, reply or book here: {{short_link}}. If not, all good. - Jake"
+    }
+  ]
+}

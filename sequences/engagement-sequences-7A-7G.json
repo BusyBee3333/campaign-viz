@@ -1,0 +1,244 @@
+{
+  "7A": [
+    {
+      "id": "7A-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 147,
+      "methodology": "NEPQ Connecting",
+      "content": "Hey! Saw you joined the Signet Discord - welcome! Have you had a chance to poke around yet? Happy to point you in the right direction if helpful. -Jake"
+    },
+    {
+      "id": "7A-2",
+      "timing": "18hr",
+      "channel": "email",
+      "chars": 892,
+      "methodology": "NEPQ Problem Awareness",
+      "subject": "Quick question about your Signet setup",
+      "content": "Hey!\n\nNoticed you joined our Discord but haven't installed Signet yet. Totally fine - just wanted to check in.\n\nA few things that sometimes hold people up:\n\n1. **Not sure if it's worth the setup time** - Fair. Most people see value within the first hour once their agent starts remembering context across sessions.\n\n2. **Technical blockers** - Maybe you're on Windows (we're Mac/Linux for now), or Claude Code isn't set up yet. If that's the case, lmk - I can point you to resources or we can troubleshoot.\n\n3. **Just browsing for now** - Also fine! The Discord has plenty of useful content even without installing.\n\nIs one of these the situation, or something else entirely?\n\nNo pressure either way - Signet is free and open source, so you can always come back to it later. Just want to make sure you're not stuck on something I can help with.\n\n-Jake\n\nP.S. If you're curious but want someone to handle the setup, we do offer Done-With-You sessions ($499) where I walk you through everything live. But honestly, most people get it running on their own in under 30 minutes."
+    },
+    {
+      "id": "7A-3",
+      "timing": "36hr",
+      "channel": "sms",
+      "chars": 159,
+      "methodology": "NEPQ Solution Awareness",
+      "content": "Still figuring out the Signet setup? Our #getting-started channel has a 10-min quickstart that covers 90% of questions. Want me to send the direct link? -Jake"
+    },
+    {
+      "id": "7A-4",
+      "timing": "48hr",
+      "channel": "email",
+      "chars": 724,
+      "methodology": "NEPQ Commitment",
+      "subject": "Last check-in on Signet",
+      "content": "Hey!\n\nThis is my last proactive check-in - don't want to be annoying.\n\nQuick summary of where things stand:\n\n- **Signet is free forever** - open source, no catch\n- **Discord community** - ask questions anytime in #help\n- **Getting started** - takes about 15-30 minutes for most people\n\nIf you ever want hands-on help:\n- **Done-With-You ($499)** - I walk you through setup live, answer all your questions\n- **Done-For-You ($1499)** - I set up everything including a Mac mini with agents pre-configured\n\nBut again, most people don't need that. The free path works great.\n\nI'll leave you to it - just reply anytime if something comes up. The Discord #help channel is also fantastic for quick answers.\n\n-Jake"
+    }
+  ],
+  "7B": [
+    {
+      "id": "7B-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 142,
+      "methodology": "Celebration + Direction",
+      "content": "Your first memory just hit Signet! That's the hardest part done. Now your agent will start building context. What are you working on today? -Jake"
+    },
+    {
+      "id": "7B-2",
+      "timing": "6hr",
+      "channel": "email",
+      "chars": 856,
+      "methodology": "Next Steps Education",
+      "subject": "Your Signet is live - here's what happens next",
+      "content": "Hey!\n\nSaw your first memory come through - congrats on getting set up!\n\nHere's what to expect over the next few days:\n\n**Day 1-2:** Memories feel random. Your agent is just capturing what it can. This is normal.\n\n**Day 3-7:** Patterns emerge. You'll notice your agent referencing past conversations more naturally.\n\n**Week 2+:** The magic. Your agent genuinely knows you - your projects, preferences, how you think.\n\nThings that accelerate this:\n- Use Claude Code for your real work (not just testing)\n- Let conversations flow naturally\n- Don't worry about \"feeding\" it perfect info\n\nThings to avoid:\n- Resetting your context constantly\n- Overthinking what gets saved\n\nThe system is designed to be invisible. Just work normally and let Signet do its thing.\n\nQuestions? Reply here or drop them in Discord #help.\n\n-Jake"
+    },
+    {
+      "id": "7B-3",
+      "timing": "24hr",
+      "channel": "sms",
+      "chars": 156,
+      "methodology": "Engagement Check",
+      "content": "Been about a day since your first Signet memory. How's it feeling so far? Any questions about what it's capturing or how to get more value from it? -Jake"
+    }
+  ],
+  "7C": [
+    {
+      "id": "7C-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 153,
+      "methodology": "NEPQ Connecting",
+      "content": "Noticed your Signet usage is pretty light so far. Totally normal early on - but curious if there's something specific you're trying to figure out? -Jake"
+    },
+    {
+      "id": "7C-2",
+      "timing": "12hr",
+      "channel": "email",
+      "chars": 978,
+      "methodology": "NEPQ Problem Awareness",
+      "subject": "Getting more value from Signet",
+      "content": "Hey!\n\nI see you're using Signet but at a pretty light level (a few memories per day). That's totally fine - but I wanted to share what tends to unlock more value.\n\n**Common patterns I see with light usage:**\n\n1. **Only using it for certain tasks** - Signet works best when it's running across ALL your Claude Code work. The connections between unrelated projects are often the most valuable.\n\n2. **Short sessions** - Quick questions don't build much context. Longer working sessions where you're solving real problems generate richer memories.\n\n3. **Haven't explored skills** - Things like `/recall` let you actively query past context. Many people don't know these exist.\n\n4. **Still in \"testing\" mode** - When you stop testing Signet and just USE it for real work, the value compounds fast.\n\nAny of these resonate?\n\nThe goal isn't necessarily more memories - it's memories that capture things worth remembering. Quality over quantity.\n\nHappy to dig into your specific workflow if helpful.\n\n-Jake"
+    },
+    {
+      "id": "7C-3",
+      "timing": "30hr",
+      "channel": "sms",
+      "chars": 147,
+      "methodology": "NEPQ Solution Awareness",
+      "content": "Quick tip: Run Signet while doing your normal coding work for a full day. Don't optimize for it - just let it watch. The context builds fast. -Jake"
+    },
+    {
+      "id": "7C-4",
+      "timing": "48hr",
+      "channel": "email",
+      "chars": 689,
+      "methodology": "NEPQ Commitment",
+      "subject": "One thing that might help",
+      "content": "Hey!\n\nOne more thought on getting more from Signet:\n\nThe people who get the most value tend to have it running as their default setup. Not something they turn on for specific tasks - just always there.\n\nIf your current setup makes that friction-y (maybe Signet isn't auto-starting, or something is awkward), that's worth fixing.\n\nTwo paths:\n\n1. **DIY** - Check the Discord #tips-and-tricks channel for optimization guides\n\n2. **Done-With-You ($499)** - 90-minute session where I look at your specific setup and optimize it with you. Most people who do this see 3-5x more value afterward because we eliminate the friction points.\n\nEither way works. Just want you getting real value from this thing.\n\n-Jake"
+    }
+  ],
+  "7D": [
+    {
+      "id": "7D-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 139,
+      "methodology": "Recognition",
+      "content": "Your Signet usage has been solid - 10+ memories daily. You're in the top 20% of users. Curious what you're building that needs all that context? -Jake"
+    },
+    {
+      "id": "7D-2",
+      "timing": "8hr",
+      "channel": "email",
+      "chars": 823,
+      "methodology": "Community Value",
+      "subject": "You're using Signet more than most",
+      "content": "Hey!\n\nJust noticed your usage patterns - you're generating serious context with Signet. That's great to see.\n\nAt this level of usage, a few things worth knowing:\n\n1. **Memory quality matters more now** - With more memories, the retrieval system has more to work with. If you're getting less relevant recalls, we can tune some settings.\n\n2. **Skills become more powerful** - Things like `mcp__signet__knowledge_expand` and session summaries get really useful with more data.\n\n3. **You might have insights** - What's working well? What's annoying? Feedback from active users shapes the roadmap.\n\nAlso - if you're using Signet this much, you might benefit from a more tuned setup. Our Done-With-You sessions ($499) include optimization for power users. Not necessary, but some people at your usage level find it valuable.\n\nMostly just wanted to say: glad it's useful.\n\n-Jake"
+    },
+    {
+      "id": "7D-3",
+      "timing": "24hr",
+      "channel": "sms",
+      "chars": 151,
+      "methodology": "Community Building",
+      "content": "Would you be open to sharing how you're using Signet in the Discord? Always looking for real user stories. No pressure - just think others could learn from it. -Jake"
+    },
+    {
+      "id": "7D-4",
+      "timing": "48hr",
+      "channel": "email",
+      "chars": 687,
+      "methodology": "Soft DWY Mention",
+      "subject": "Quick thought on your Signet setup",
+      "content": "Hey!\n\nLast message for now - just one thought.\n\nAt your usage level, small optimizations compound. Things like:\n- Memory importance tuning\n- Custom entity extraction rules  \n- Session summary configurations\n- Integration with your specific workflows\n\nMost of this you can figure out from the docs and Discord. But if you want to shortcut it, the Done-With-You session ($499) covers all of this in 90 minutes.\n\nWe go through your actual usage, identify friction points, and configure everything for your specific workflow. Most power users say it saves them 5-10 hours of tinkering.\n\nTotally optional - you're clearly doing fine on your own. Just wanted you to know it exists.\n\n-Jake"
+    }
+  ],
+  "7E": [
+    {
+      "id": "7E-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 154,
+      "methodology": "Power User Recognition",
+      "content": "You're using some advanced Signet features I rarely see. Knowledge graph expansion, custom entity rules? Would love to hear what you're building. -Jake"
+    },
+    {
+      "id": "7E-2",
+      "timing": "8hr",
+      "channel": "email",
+      "chars": 934,
+      "methodology": "Enterprise/DFY Introduction",
+      "subject": "You're in rare territory with Signet",
+      "content": "Hey!\n\nYour usage patterns are interesting - you're touching parts of Signet most people never explore. Knowledge graph queries, custom pipelines, maybe even some MCP routing?\n\nAt this level, I'm curious:\n\n**What are you trying to accomplish?**\n\nA few things that might be relevant:\n\n1. **Enterprise features** - If you're building something for a team or company, there's some unreleased stuff that might help. Happy to discuss.\n\n2. **Done-For-You ($1499)** - If you want a dedicated setup (Mac mini with agents pre-configured, Google Workspace distillation, full memory system optimization), this is the white-glove option. Probably overkill for most people, but power users sometimes want everything tuned perfectly.\n\n3. **Contributing** - If you're hacking on Signet itself, I'd love to collaborate. Always looking for people who understand the deeper architecture.\n\nNo pitch here - genuinely curious what you're doing that requires this level of sophistication.\n\n-Jake"
+    },
+    {
+      "id": "7E-3",
+      "timing": "24hr",
+      "channel": "sms",
+      "chars": 149,
+      "methodology": "Direct Offer",
+      "content": "Quick Q: Would having a dedicated Mac mini with Signet + agents pre-configured be useful? That's our DFY offering. Might be overkill, but wanted to ask. -Jake"
+    }
+  ],
+  "7F": [
+    {
+      "id": "7F-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 136,
+      "methodology": "NEPQ Connecting",
+      "content": "Hey - noticed some errors in your Signet logs. Everything okay? Sometimes these are easy fixes, sometimes they're annoying. What's going on? -Jake"
+    },
+    {
+      "id": "7F-2",
+      "timing": "2hr",
+      "channel": "email",
+      "chars": 867,
+      "methodology": "NEPQ Problem Awareness",
+      "subject": "Saw some issues with your Signet setup",
+      "content": "Hey!\n\nI noticed some error patterns in your Signet usage. Wanted to reach out before it becomes frustrating.\n\nCommon issues I see:\n\n1. **Memory storage failures** - Usually a daemon issue. Quick restart typically fixes it.\n\n2. **Retrieval quality problems** - Embeddings might need regeneration or settings need tuning.\n\n3. **Integration conflicts** - Something else in your Claude Code setup conflicting with Signet.\n\n4. **Resource constraints** - Signet can be hungry on older machines.\n\nWhat are you experiencing specifically?\n\nThe reason I'm reaching out proactively: most people who hit issues and don't resolve them quickly end up abandoning Signet. That's a shame because the fixes are usually straightforward.\n\nI'd rather help you troubleshoot now than have you drift away frustrated.\n\nWhat's happening on your end?\n\n-Jake"
+    },
+    {
+      "id": "7F-3",
+      "timing": "6hr",
+      "channel": "sms",
+      "chars": 147,
+      "methodology": "NEPQ Solution Introduction",
+      "content": "If you're stuck on Signet issues - two options: Discord #help channel (free, community answers fast) or reply here and I'll look at it directly. Your call. -Jake"
+    },
+    {
+      "id": "7F-4",
+      "timing": "18hr",
+      "channel": "email",
+      "chars": 912,
+      "methodology": "NEPQ Consequence",
+      "subject": "Don't let this issue kill your momentum",
+      "content": "Hey!\n\nFollowing up on the Signet issues.\n\nHere's what I've seen happen: someone hits a technical snag, means to fix it \"later,\" and then never comes back. The initial momentum is lost, and they miss out on what Signet could have done for their workflow.\n\nI don't want that to happen to you.\n\nThe issue you're hitting is almost certainly fixable. Most Signet problems fall into a few categories and have known solutions.\n\nThree paths forward:\n\n1. **Discord #help** - Free, community is responsive, good for common issues\n\n2. **Reply here with details** - I'll personally look at it and point you to the fix\n\n3. **Done-With-You ($499)** - If you want me to actually get on a call, look at your setup, and fix it live. This also includes full optimization, so you'd come out of it with everything working perfectly.\n\nWhat sounds right for your situation?\n\n-Jake"
+    },
+    {
+      "id": "7F-5",
+      "timing": "30hr",
+      "channel": "sms",
+      "chars": 158,
+      "methodology": "NEPQ Commitment Question",
+      "content": "Honest question: Is fixing Signet something you want to prioritize, or is it more of a \"nice to have\"? No judgment - just want to help appropriately based on that. -Jake"
+    },
+    {
+      "id": "7F-6",
+      "timing": "42hr",
+      "channel": "email",
+      "chars": 823,
+      "methodology": "NEPQ Final Offer",
+      "subject": "Two ways this usually goes",
+      "content": "Hey!\n\nLast note on the Signet issues.\n\nI've seen two patterns:\n\n**Pattern A:** Someone hits an issue, gets busy, means to fix it, never does. Six months later they see Signet mentioned somewhere and think \"oh yeah, I should try that again.\" The cycle repeats.\n\n**Pattern B:** Someone hits an issue, spends 15 minutes getting help, fixes it, and moves on with a working system.\n\nPattern B is objectively better. The question is just what help looks like for you:\n\n- **Free path:** Discord #help, docs, or reply here with specifics\n- **Paid path:** Done-With-You ($499) where I fix it live and optimize everything while I'm there\n\nI'm not going to keep following up after this - don't want to be annoying. But the offer stands if you want help.\n\n-Jake"
+    },
+    {
+      "id": "7F-7",
+      "timing": "72hr",
+      "channel": "sms",
+      "chars": 149,
+      "methodology": "Final Check-in",
+      "content": "Last check-in on those Signet issues. If you ever want to revisit, Discord #help is always there. Or reply here anytime - I'll see it. Good luck with everything. -Jake"
+    }
+  ],
+  "7G": [
+    {
+      "id": "7G-1",
+      "timing": "0min",
+      "channel": "sms",
+      "chars": 143,
+      "methodology": "Gentle Re-engagement",
+      "content": "Hey - noticed you haven't used Signet in about a week. Everything okay? Sometimes people get busy, sometimes something broke. Just checking in. -Jake"
+    },
+    {
+      "id": "7G-2",
+      "timing": "48hr",
+      "channel": "email",
+      "chars": 678,
+      "methodology": "Soft Re-engagement",
+      "subject": "Still interested in Signet?",
+      "content": "Hey!\n\nYour Signet usage went quiet about a week ago. Just wanted to check in.\n\nA few possibilities:\n\n1. **Got busy** - Totally fair. Signet will be here when you're ready.\n\n2. **Something broke** - If there's a technical issue blocking you, let me know. Usually easy to fix.\n\n3. **Didn't see the value** - Also fair. Not every tool is for everyone. If you want to share feedback on what didn't click, I'm always listening.\n\n4. **Switched to something else** - Curious what, if so. We're always learning from alternatives.\n\nNo pressure to respond - just wanted you to know the door is open if you want to pick it back up.\n\n-Jake\n\nP.S. Discord community is still active if you have questions."
+    }
+  ]
+}

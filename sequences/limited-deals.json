@@ -1,0 +1,160 @@
+{
+  "L1": [
+    {
+      "id": "L1-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "You watched the whole thing - here's a thank you",
+      "methodology": "Earned deal acknowledgment - recognizing real engagement deserves real reward",
+      "content": "I noticed you watched the entire Do-With-You walkthrough.\n\nThat's not casual browsing. That's 12 minutes of actual attention.\n\nSo I want to offer you something I don't offer publicly:\n\n**$399 instead of $499** - but only for the next 48 hours.\n\nThis isn't manufactured urgency. It's a genuine thank-you for taking the time to actually understand what I'm offering before deciding.\n\nHere's the quick recap of what you'd get:\n- Complete Local Bosses system setup\n- 3 training sessions with me\n- 30 days of support\n- All the templates, all the automations\n\nIf you're ready: [Claim $100 off →]\n\nIf you're not ready, no worries. The standard offer will still be here.\n\nBut this specific deal expires {{deadline_timestamp}}.\n\n- Jake"
+    },
+    {
+      "id": "L1-2",
+      "timing": "18h",
+      "channel": "email",
+      "subject": "Quick question about what you watched",
+      "methodology": "Check-in that adds value - addressing likely hesitation points",
+      "content": "Hey {{first_name}},\n\nI wanted to check in on that $399 offer (expires in about 30 hours).\n\nBut more importantly - was there anything in the video that raised questions?\n\nMost people who watch the whole thing but don't move forward usually fall into one of these:\n\n**\"I'm not sure I have time for 3 training sessions\"**\nWe schedule around you. Most clients do early morning or evening. Sessions are 45 minutes each.\n\n**\"I tried something similar before and it didn't stick\"**\nThat's usually because it was pure DIY. This is Do-With-You - I'm building it alongside you, not just handing you logins.\n\n**\"I need to think about the investment\"**\nTotally fair. $399 is real money. But if you're currently spending 5+ hours/week on manual follow-up, you'll get that back in month one.\n\nWant to hop on a quick call to talk through whatever's on your mind?\n\n[Schedule 15-min chat →]\n\nOr if you're ready: [Lock in $399 →]\n\n- Jake"
+    },
+    {
+      "id": "L1-3",
+      "timing": "36h",
+      "channel": "sms",
+      "subject": null,
+      "methodology": "Gentle 12-hour warning on SMS for immediacy",
+      "content": "Hey {{first_name}} - your $399 DWY deal expires in about 12 hours. Just wanted to make sure you saw it before it's gone. No pressure either way: {{offer_link}}"
+    },
+    {
+      "id": "L1-4",
+      "timing": "47h",
+      "channel": "email",
+      "subject": "Last call (then back to normal)",
+      "methodology": "Clean close - respects intelligence, leaves door open",
+      "content": "{{first_name}},\n\nThis is the last note about the $399 deal - it expires in about an hour.\n\nAfter that, Do-With-You goes back to the standard $499.\n\nNo hard feelings either way. You watched the whole video, you know exactly what this is. You're capable of deciding if it's right for you.\n\nIf it is: [Get started at $399 →]\n\nIf it's not the right time, the door's always open. Just reply whenever you're ready to talk.\n\nThanks for taking the time to really look at this.\n\n- Jake\n\nP.S. Even if you don't grab this deal, I'd genuinely love to know what held you back. Just hit reply - it helps me make this better for everyone."
+    }
+  ],
+  "L2": [
+    {
+      "id": "L2-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "You did your homework - here's what that unlocks",
+      "methodology": "Earned deal for serious buyer behavior - value stack reminder",
+      "content": "{{first_name}},\n\nYou just spent real time understanding the Done-For-You system.\n\nThat kind of due diligence deserves a reward.\n\nFor the next 48 hours, I'm offering you:\n\n**$1,199 instead of $1,499** - that's $300 off\n\nPLUS a bonus that's not available anywhere else:\n**Free Google Workspace setup** (normally a $150 add-on)\n\nQuick reminder of what Done-For-You includes:\n\n✓ Complete system built FOR you (not with you - for you)\n✓ CRM, automations, follow-up sequences - all done\n✓ Google Business optimization\n✓ 60 days of support\n✓ Training so you actually understand what you have\n\nYou don't lift a finger on setup. You just start using it.\n\nThis deal exists because you showed up as a serious buyer. Not a tire-kicker.\n\n[Claim $300 off + free Google Workspace →]\n\nExpires: {{deadline_timestamp}}\n\n- Jake"
+    },
+    {
+      "id": "L2-2",
+      "timing": "20h",
+      "channel": "email",
+      "subject": "What $1,199 actually gets you (broken down)",
+      "methodology": "Value justification - make the math obvious",
+      "content": "{{first_name}},\n\nI wanted to break down what $1,199 actually means for your business.\n\nHere's what you're getting:\n\n**The System (worth $2,000+ if you built it yourself)**\n- Full CRM setup and configuration\n- Automated follow-up sequences\n- Review request system\n- Lead capture forms\n- Appointment scheduling\n- Client communication hub\n\n**The Optimization**\n- Google Business Profile audit and fixes\n- Local SEO foundations\n- Online presence cleanup\n\n**The Support**\n- 60 days of direct access to me\n- Training on everything we build\n- Tweaks and adjustments as needed\n\n**The Bonus (only with this deal)**\n- Google Workspace setup ($150 value)\n- Professional email, calendar, docs - all configured\n\nIf you hired someone to do all this separately: $3,000-5,000 easy.\n\nIf you tried to DIY it: 40-60 hours of your time.\n\n$1,199 gets you done-and-working in about 2 weeks.\n\nStill thinking it over? Reply and tell me what's on your mind.\n\n[Lock in the deal →]\n\n- Jake"
+    },
+    {
+      "id": "L2-3",
+      "timing": "40h",
+      "channel": "sms",
+      "subject": null,
+      "methodology": "SMS reminder - 8 hours left, direct and respectful",
+      "content": "{{first_name}} - about 8 hours left on your DFY deal ($1,199 + free Google Workspace). After that it's back to $1,499 with no bonus. Here if you have questions: {{offer_link}}"
+    },
+    {
+      "id": "L2-4",
+      "timing": "47h",
+      "channel": "email",
+      "subject": "Closing this out",
+      "methodology": "Clean close - no begging, door stays open",
+      "content": "{{first_name}},\n\nThe Done-For-You deal expires in about an hour:\n- $1,199 (instead of $1,499)\n- Free Google Workspace setup\n\nAfter that, it goes back to standard pricing.\n\nI'm not going to pretend this is your \"last chance ever\" - the service will still exist. But this specific deal won't.\n\nYou did your research. You know if this fits.\n\nIf it does: [Get started →]\n\nIf it doesn't, genuinely no hard feelings. You can always reach out when the timing is better.\n\nAppreciate you taking this seriously either way.\n\n- Jake"
+    }
+  ],
+  "L3": [
+    {
+      "id": "L3-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "Re: Your interest in fractional CTO services",
+      "methodology": "Enterprise tone - acknowledges serious evaluation, offers exclusive access",
+      "content": "{{first_name}},\n\nI noticed you spent considerable time reviewing the Fractional CTO offering.\n\nThat level of due diligence tells me you're evaluating this seriously - which is exactly the kind of client I work best with.\n\nI'd like to offer you something I reserve for prospects who've done their homework:\n\n**Extended Discovery Session**\nInstead of the standard 30-minute call, I'm offering you a 60-minute deep-dive. No pitch, no pressure - just an honest assessment of whether fractional CTO support makes sense for your situation.\n\n**Priority Scheduling**\nI'm opening up calendar slots this week that aren't publicly available.\n\nThis offer is good for 72 hours - not because of artificial scarcity, but because I keep these slots limited to ensure I can actually deliver on them.\n\nIf you'd like to have a real conversation about your technical challenges and whether I can help:\n\n[Schedule Extended Discovery →]\n\nIf you'd prefer to continue your evaluation, I understand. I'm happy to answer any questions via email as well.\n\nRegards,\nJake Shore"
+    },
+    {
+      "id": "L3-2",
+      "timing": "36h",
+      "channel": "email",
+      "subject": "A few things to consider before we talk",
+      "methodology": "Adds value during consideration period - positions as peer, not salesperson",
+      "content": "{{first_name}},\n\nI wanted to share some context that might help your evaluation - whether or not we end up working together.\n\n**When Fractional CTO makes sense:**\n- You're making technical decisions without technical expertise on your team\n- You're spending money on development but not sure if you're getting value\n- You need technical strategy but not a full-time hire\n- Your tech is becoming a bottleneck but you're not sure why\n\n**When it doesn't make sense:**\n- You need someone writing code 40 hours/week\n- Your challenges are purely operational, not technical\n- You're not ready to act on recommendations\n\nI turn away about 40% of prospects because the fit isn't right. That's not false modesty - it's just that fractional CTO works best in specific situations.\n\nThe extended discovery call I offered is genuinely about figuring out if this is one of those situations.\n\n[Schedule the conversation →]\n\nOr reply with questions - I'm happy to go back and forth via email if that's easier.\n\nRegards,\nJake"
+    },
+    {
+      "id": "L3-3",
+      "timing": "71h",
+      "channel": "email",
+      "subject": "Closing the loop on priority scheduling",
+      "methodology": "Professional close - no desperation, maintains positioning",
+      "content": "{{first_name}},\n\nThe priority scheduling window I offered is closing - those calendar slots will go back into my regular availability.\n\nThe extended discovery call offer stands for a bit longer, but scheduling will be subject to normal availability (usually 1-2 weeks out).\n\nIf you'd like to continue the conversation: [Schedule here →]\n\nIf the timing isn't right, I completely understand. Complex technical decisions shouldn't be rushed.\n\nFeel free to reach out whenever it makes sense on your end. I'm not going anywhere.\n\nRegards,\nJake Shore\n\nP.S. If you've decided this isn't the right fit, I'd appreciate knowing what factored into that decision. It helps me better communicate what I offer - and who I offer it to."
+    }
+  ],
+  "L4": [
+    {
+      "id": "L4-1",
+      "timing": "0min",
+      "channel": "email",
+      "subject": "Looks like you're weighing options - let me help",
+      "methodology": "Helper positioning - noticed behavior, offering clarity not sales",
+      "content": "{{first_name}},\n\nI noticed you've been looking at a few different offers.\n\nThat's actually smart - the worst thing would be to pick something that doesn't fit your situation.\n\nLet me help you think through this:\n\n**Do-With-You ($499)** is right if:\n- You want to understand how everything works\n- You have 3-4 hours over the next month for training\n- You want to be able to make changes yourself later\n- You learn by doing\n\n**Done-For-You ($1,499)** is right if:\n- You just want it working, period\n- Your time is worth more than the price difference\n- You'd rather focus on running your business\n- You'll learn by using, not by building\n\n**Fractional CTO** is right if:\n- You have ongoing technical decisions, not just a one-time setup\n- You need strategic guidance, not just implementation\n- Your challenges go beyond marketing systems\n\nHere's my honest take: most local businesses do best with DWY or DFY. The CTO service is really for businesses with more complex technical needs.\n\nStill not sure? Tell me about your business and I'll give you a straight answer.\n\n[Reply to this email]\n\nOr: [Book a quick call to talk it through →]\n\n- Jake"
+    },
+    {
+      "id": "L4-2",
+      "timing": "24h",
+      "channel": "email",
+      "subject": "Three questions to help you decide",
+      "methodology": "Self-sorting questions - helps them decide without us choosing for them",
+      "content": "{{first_name}},\n\nStill thinking about which option fits?\n\nHere are three questions that usually make it clear:\n\n**1. How do you feel about learning new software?**\n\nA) \"I actually enjoy it\" → Do-With-You\nB) \"I'll do it if I have to\" → Either works, but DFY saves headaches\nC) \"I'd rather not\" → Done-For-You\n\n**2. What's your time worth per hour?**\n\nDWY requires about 4-5 hours of your time total.\nDFY requires about 1 hour (just the intake call + training).\n\nDifference: $1,000 for ~4 hours = $250/hour value.\n\nIf your time is worth more than $250/hour, DFY makes financial sense.\nIf it's worth less, DWY is the better deal.\n\n**3. Do you want to be able to modify things yourself later?**\n\nIf yes → DWY teaches you the system\nIf no → DFY just gives you a working system\n\nMost people know their answer after these three questions.\n\nStill stuck? Just reply and tell me what you're wrestling with.\n\n- Jake"
+    },
+    {
+      "id": "L4-3",
+      "timing": "48h",
+      "channel": "email",
+      "subject": "No rush - just checking in",
+      "methodology": "Graceful close on comparison sequence - no pressure, open door",
+      "content": "{{first_name}},\n\nJust checking in on your decision process.\n\nIf you've figured out which option fits: great. Here are the links:\n- [Do-With-You →]\n- [Done-For-You →]\n- [Fractional CTO Discovery Call →]\n\nIf you're still thinking: also great. These decisions shouldn't be rushed.\n\nIf you've decided none of these are right: totally fine. No hard feelings. I'd rather you find the right solution than buy something that doesn't fit.\n\nThe only thing I'd ask: if you're stuck on something specific, just tell me. Sometimes a 5-minute conversation clears up what feels like a big decision.\n\n[Reply to this email] or [Book 15 minutes →]\n\nEither way, I appreciate you taking the time to look at what I offer.\n\n- Jake"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "purpose": "Earned deal sequences triggered by genuine engagement behavior",
+    "philosophy": "These deals are rewards for real interest, not manufactured urgency. The scarcity is authentic because it's personalized to behavior.",
+    "trigger_conditions": {
+      "L1": "DWY video 100% watched OR 3+ offer page visits OR multiple CTA clicks",
+      "L2": "DFY video 100% watched OR 3+ offer page visits OR multiple CTA clicks",
+      "L3": "CTO video 100% watched OR 3+ offer page visits OR multiple CTA clicks",
+      "L4": "Viewed 2+ different offer pages in single session"
+    },
+    "deal_terms": {
+      "L1_DWY": {
+        "standard_price": 499,
+        "deal_price": 399,
+        "savings": 100,
+        "window": "48 hours",
+        "alternative_bonus": "Extra follow-up session"
+      },
+      "L2_DFY": {
+        "standard_price": 1499,
+        "deal_price": 1199,
+        "savings": 300,
+        "window": "48 hours",
+        "bonus": "Free Google Workspace setup ($150 value)"
+      },
+      "L3_CTO": {
+        "offer": "Extended 60-min discovery call",
+        "bonus": "Priority scheduling",
+        "window": "72 hours"
+      }
+    },
+    "tone_guidelines": {
+      "L1": "Friendly, appreciative, helpful",
+      "L2": "Professional, value-focused, clear",
+      "L3": "Enterprise, peer-to-peer, consultative",
+      "L4": "Helper mode, no sales pressure, sorting assistance"
+    }
+  }
+}
